@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lcabookstore.git/static/css/main.14c2ee2b.chunk.css",
-    "main.js": "/lcabookstore.git/static/js/main.1eb475ec.chunk.js",
-    "main.js.map": "/lcabookstore.git/static/js/main.1eb475ec.chunk.js.map",
-    "runtime-main.js": "/lcabookstore.git/static/js/runtime-main.51f5f2af.js",
-    "runtime-main.js.map": "/lcabookstore.git/static/js/runtime-main.51f5f2af.js.map",
-    "static/js/2.be4b3ea6.chunk.js": "/lcabookstore.git/static/js/2.be4b3ea6.chunk.js",
-    "static/js/2.be4b3ea6.chunk.js.map": "/lcabookstore.git/static/js/2.be4b3ea6.chunk.js.map",
-    "static/js/3.28f50db2.chunk.js": "/lcabookstore.git/static/js/3.28f50db2.chunk.js",
-    "static/js/3.28f50db2.chunk.js.map": "/lcabookstore.git/static/js/3.28f50db2.chunk.js.map",
-    "index.html": "/lcabookstore.git/index.html",
-    "static/css/main.14c2ee2b.chunk.css.map": "/lcabookstore.git/static/css/main.14c2ee2b.chunk.css.map",
-    "static/js/2.be4b3ea6.chunk.js.LICENSE.txt": "/lcabookstore.git/static/js/2.be4b3ea6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/lcabookstore.git/static/media/home.7346a75b.jpg"
+    "main.css": "/lcabookstore/static/css/main.7d6bc602.chunk.css",
+    "main.js": "/lcabookstore/static/js/main.1eb475ec.chunk.js",
+    "main.js.map": "/lcabookstore/static/js/main.1eb475ec.chunk.js.map",
+    "runtime-main.js": "/lcabookstore/static/js/runtime-main.1897c8b8.js",
+    "runtime-main.js.map": "/lcabookstore/static/js/runtime-main.1897c8b8.js.map",
+    "static/js/2.be4b3ea6.chunk.js": "/lcabookstore/static/js/2.be4b3ea6.chunk.js",
+    "static/js/2.be4b3ea6.chunk.js.map": "/lcabookstore/static/js/2.be4b3ea6.chunk.js.map",
+    "static/js/3.28f50db2.chunk.js": "/lcabookstore/static/js/3.28f50db2.chunk.js",
+    "static/js/3.28f50db2.chunk.js.map": "/lcabookstore/static/js/3.28f50db2.chunk.js.map",
+    "index.html": "/lcabookstore/index.html",
+    "static/css/main.7d6bc602.chunk.css.map": "/lcabookstore/static/css/main.7d6bc602.chunk.css.map",
+    "static/js/2.be4b3ea6.chunk.js.LICENSE.txt": "/lcabookstore/static/js/2.be4b3ea6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/lcabookstore/static/media/home.7346a75b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.51f5f2af.js",
+    "static/js/runtime-main.1897c8b8.js",
     "static/js/2.be4b3ea6.chunk.js",
-    "static/css/main.14c2ee2b.chunk.css",
+    "static/css/main.7d6bc602.chunk.css",
     "static/js/main.1eb475ec.chunk.js"
   ]
 }
