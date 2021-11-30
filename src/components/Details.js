@@ -19,7 +19,7 @@ export default class Details extends Component {
                                <h2>Product details</h2>
                                <div className="det-center">
                                    <div className="det-img">
-                                       <img src={`/${results.img}`} alt="img" />
+                                       <img src={`/${results.img}`.default} alt="img" />
                                    </div>
                                    <div className="det-info">
                                        <h3>{results.title}</h3>
