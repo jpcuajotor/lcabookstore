@@ -2,7 +2,7 @@ export const Data=[
 
     {
         id:1,
-        img:'images/prod1.png',
+        img:'./images/prod1.png',
         title:"Boy's School Uniform",
         price:'899',
         details:'This school uniform set for boys is made of 60% Cotton and 40% Polyester woven fabric with button closure. It is lightweight with breathable material and is safe for machine wash. The school logo is embroidered on the front left chest and this is a one size fits all uniform.',
