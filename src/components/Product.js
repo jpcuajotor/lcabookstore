@@ -14,7 +14,7 @@ render(props) {
                     <div className="product">
                         <Link to={`/details/${id}`} onClick={closeNavCart}>
                             <div className="img-div">
-                                <img src={img} alt=""/>
+                                <img src={`./lcabookstore/${img}`} alt=""/>
                             </div>
                         </Link>
 
